@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/emre/Homework4/AlgorithmSortQuick.cpp
+iostream
+-
+AlgorithmSortQuick.h
+C:/Users/emre/Homework4/AlgorithmSortQuick.h
+
+C:/Users/emre/Homework4/AlgorithmSortQuick.h
+
+C:/Users/emre/Homework4/TestBed.h
+AlgorithmSortQuick.h
+C:/Users/emre/Homework4/AlgorithmSortQuick.h
+
+C:/Users/emre/Homework4/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+TestBed.h
+C:/Users/emre/Homework4/TestBed.h
+
